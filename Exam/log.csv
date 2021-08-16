@@ -1,4 +1,1 @@
 id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code;success;error
-0;Nordpool Data;requests;1629122712.681659;-0.531731128692627;https://www.nordpoolgroup.com/api/downloads/4675;https://www.nordpoolgroup.com/api/downloads/4675;540820;200;True;
-1;Nordpool Data;requests;1629122809.018327;-0.18460607528686523;https://www.nordpoolgroup.com/api/downloads/4675;https://www.nordpoolgroup.com/api/downloads/4675;540820;200;True;
-2;Nordpool Data;requests;1629123096.7129269;-0.1528310775756836;https://www.nordpoolgroup.com/api/downloads/4675;https://www.nordpoolgroup.com/api/downloads/4675;540820;200;True;
