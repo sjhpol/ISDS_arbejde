@@ -1,4 +1,7 @@
 id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code;success;error
-0;Nordpool Data;requests;1629122712.681659;-0.531731128692627;https://www.nordpoolgroup.com/api/downloads/4675;https://www.nordpoolgroup.com/api/downloads/4675;540820;200;True;
-1;Nordpool Data;requests;1629122809.018327;-0.18460607528686523;https://www.nordpoolgroup.com/api/downloads/4675;https://www.nordpoolgroup.com/api/downloads/4675;540820;200;True;
-2;Nordpool Data;requests;1629123096.7129269;-0.1528310775756836;https://www.nordpoolgroup.com/api/downloads/4675;https://www.nordpoolgroup.com/api/downloads/4675;540820;200;True;
+0;Nordpool Data;requests;1629124495.2441158;-0.2070155143737793;https://www.nordpoolgroup.com/api/downloads/4675;https://www.nordpoolgroup.com/api/downloads/4675;540820;200;True;
+1;Nordpool Data;requests;1629124589.368592;-0.4058561325073242;https://www.nordpoolgroup.com/api/downloads/4675;https://www.nordpoolgroup.com/api/downloads/4675;540820;200;True;
+2;Nordpool Data;requests;1629124669.94812;-0.05520892143249512;https://www.nordpoolgroup.com/api/downloads/4675;https://www.nordpoolgroup.com/api/downloads/4675;540820;200;True;
+3;Nordpool Data;requests;1629124696.0182495;-0.06540155410766602;https://www.nordpoolgroup.com/api/downloads/4675;https://www.nordpoolgroup.com/api/downloads/4675;540820;200;True;
+4;Nordpool Data;requests;1629124764.219459;-0.056998252868652344;https://www.nordpoolgroup.com/api/downloads/4675;https://www.nordpoolgroup.com/api/downloads/4675;540820;200;True;
+5;Nordpool Data;requests;1629124800.926891;-0.10353517532348633;https://www.nordpoolgroup.com/api/downloads/4675;https://www.nordpoolgroup.com/api/downloads/4675;540820;200;True;
